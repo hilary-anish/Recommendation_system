@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Book Recommendation System is a Python package that provides a simple yet effective way to recommend books based on user preferences. It uses collaborative filtering techniques to analyze user interactions and make personalized recommendations.
+A Book Recommendation System is created by cleaning and training the user-item data matrix using Un-supervised learning. The model is a simple yet effective way to recommend books based on user preferences. It uses collaborative filtering techniques to analyze user interactions and make personalized recommendations.
 
 ## Features
 
