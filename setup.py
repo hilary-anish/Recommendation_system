@@ -8,7 +8,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 ## edit below variables as per your requirements -
 REPO_NAME = "Books-Recommender-System-ML"
 AUTHOR_USER_NAME = "Anish Hilary"
-SRC_REPO = "src"
+SRC_REPO = "book-recommend-pkg"
 LIST_OF_REQUIREMENTS = ['streamlit', 'numpy']
 
 setup(
