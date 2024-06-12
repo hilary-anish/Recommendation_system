@@ -1,0 +1,10 @@
+# PyPi
+
+numpy
+scikit-learn
+streamlit
+
+
+# local packages 
+
+-e .
